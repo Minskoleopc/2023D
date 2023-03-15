@@ -134,7 +134,7 @@ switch (city) {
         console.log('MP')
         break
     default:
-        console.log('Incorrect city name')
+        console.log('Incorrect city name.')
 }
 
 
