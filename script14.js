@@ -74,5 +74,37 @@ console.log(q3a)
 
 
 
+// html element
+
+<input class="oxd-input oxd-input--active oxd-input--error" 
+name="username" placeholder="Username" 
+autofocus="" data-v-844e87dc="" fdprocessedid="if5rq">
+
+// Major ways to select a element 
+
+xpath ,
+css selector
+
+// id 
+// tagName 
+// name 
+
+
+<input  class = "abc" id = "hello" class="oxd-input oxd-input--active oxd-input--error" name="username" placeholder="Username" autofocus="" data-v-844e87dc="" fdprocessedid="if5rq">
+
+
+// input
+
+// "input"
+
+// #hello
+
+// .abc
+
+//input[name = "username"]
+
+
+
+
 
 

@@ -166,6 +166,15 @@ console.log(b)
 
 
 
+// map()
+// filter()
+// reduce()
+// forEach()
+// find()
+// findIndex()
+// every()
+// some
+
 
 
 

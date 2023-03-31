@@ -43,7 +43,6 @@ for(let i = 1 ; i <= 5 ; i++){  // 2 //3
         break
     }
 }
-
 // continue
 for(let i = 0 ; i<= 3 ; i++){ // 1 // 2 // 3 // 4
     if(i == 2){

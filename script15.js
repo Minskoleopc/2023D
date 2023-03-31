@@ -63,7 +63,6 @@ let q9 = numC.findIndex(function(el,index,arr){
 })
 console.log(q9)
 
-
 let numD = [11,22,33,44,55,-77]
 let q10 = numD.every(function(el,index,arr){
     return el > 0
