@@ -137,9 +137,7 @@ let fruits = ["apple","grapes","papaya","chikoo"]
 // console.log(fruits)
 
 
-
 // fill()
-
-let marks = [33,44,55,66,77,88,22,33,44,55,66,77,88]
-let q23 = marks.fill('99',2,5)
-console.log(q23)
+// let marks = [33,44,55,66,77,88,22,33,44,55,66,77,88]
+// let q23 = marks.fill('99',2,5)
+// console.log(q23)
