@@ -5,7 +5,6 @@ let chinmay = {
     rollNo:23
 }
 
-
 let  amol = {
     firstName:"amol",
     lastName:"rao",
