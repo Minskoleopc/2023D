@@ -72,9 +72,7 @@ class PersonB {
         this.age = age
         this.rollNo = rollNo
     }
-
 }
-
 let amolC = new PersonB("amol","rao",34,89)
 let chinmayc = new PersonB("chinmay","deshpande",32,90)
 console.log

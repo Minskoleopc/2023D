@@ -140,7 +140,6 @@ for(let v of Object.values(info3)){
     console.log(v)
 }
 
-
 for(let [k,v] of Object.entries(info3)){
     console.log(k,v)
 }
