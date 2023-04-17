@@ -1,9 +1,6 @@
-
-
 // Map and object 
 // Map and Object can store the items on (key/value)(property/value )
 // Map key can be any data type but Object key will always be string 
-
 
 let roles = new Map()
 //size 
@@ -86,10 +83,12 @@ setA.forEach(function(v){
 // console.log(setA.values())
 // console.log(setA.keys())
 // console.log(setA.entries())
-
-
 let setB = new Set(["chinmay","ram","laksman","sita","kavita","ram"])
 console.log(setB)
+
+// DOM
+
+
 
 
 
