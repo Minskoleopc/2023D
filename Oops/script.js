@@ -86,6 +86,43 @@ k6.rollNo = 98
 console.log(k6)
 
 
+// object literal 
+// function cobstructor
+// Es6 
+// Object.create methodg
+
+
+class Student {
+
+    firstName ="ram"
+    lastName  = "dani"
+}
+
+let s1 = new Student()
+let s2 = new Student()
+
+s2.firstName = "ninad"
+s2.lastName = "deshmukh"
+
+console.log(s1)
+console.log(s2)
+
+// let s3 = {
+//     firstName:"mayuri",
+//     lastName:"katwe"
+// }
+
+
+class Stu {
+    constructor(fn,ln){
+        this.firstName = fn
+        this.lastName = ln 
+    }
+}
+
+let sarika = new Stu("sarika","pansare")
+let deepali = new Stu("deepali","jhadhav")
+
 
 
 
