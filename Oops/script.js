@@ -124,7 +124,7 @@ let sarika = new Stu("sarika","pansare")
 let deepali = new Stu("deepali","jhadhav")
 
 
-
+["a","b","c"].sort()
 
 
 
